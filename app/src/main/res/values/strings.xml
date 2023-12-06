@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Planner</string>
+    <string name="planner_local_database_name">planner_local_database</string>
+
+    <string name="reminder_channel_name">Reminders</string>
+    <string name="reminder_channel_desc">Manage your reminders</string>
+
+    <string name="task_reminder_channel_id">com.example.planner.notification.reminder_channel</string>
+    <string name="notification_done_button">Mark as done</string>
+
+    <string name="task_id_key">com.example.planner.todolistTask.id</string>
+    <string name="init_task_notification_title">Setting up today\'s Task</string>
+    <string name="daily_init_periodic_worker_name">daily_task_init_periodic_worker</string>
+    <string name="init_task_worker_tag">init_task_worker</string>
+    <string name="private_shared_preference">com.example.planner.privateSharedPreference</string>
+    <string name="task_type_notification_key">com.example.planner.todolistTask.taskType</string>
+
+    <string name="task_insight_content_desc">Task Insight</string>
+    <string name="show_tracker_task_content_desc">Toggle Show Tracker Values</string>
+    <string name="setting_up_today_tasks_notification_title">Setting Your tasks for the day</string>
+    <string name="set_up_reminder_notification_title">Setting up reminders</string>
+    <string name="daily_quote_notification_title">Getting Quote of the day</string>
+
+    <string name="set_up_worker_periodic_unique_name">setUp_day_periodic_worker_name</string>
+    <string name="set_up_worker_unique_name">setup_day_worker_name</string>
+    <string name="set_up_daily_quote_worker_name">setup_daily_quotes_worker</string>
+
+    <string name="email_field_label">Email</string>
+    <string name="password_field_label">Password</string>
+    <string name="sign_in_text">Sign In</string>
+    <string name="new_user_sign_up_text">New User? Sign Up</string>
+    <string name="forgot_password_text">Forgot Password</string>
+    <string name="password_text">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up_text">Sign Up</string>
+    <string name="sign_out_text">Sign Out</string>
+    <string name="reset_text">Reset</string>
+    <string name="forgot_password_modal_desc">We will send you a password reset link to your email.</string>
+    <string-array name="auth_modes">
+        <item>Sign In</item>
+        <item>Sign Up</item>
+    </string-array>
+
+    <string name="required_error">Required *</string>
+    <string name="invalid_email_error">Invalid Email</string>
+    <string name="password_min_length_error">Password length must be at least 8 characters</string>
+    <string name="confirm_password_not_match_error">Passwords do not match</string>
+    <string name="invalid_credentials_error">Invalid Credentials</string>
+    <string name="on_success_sign_in_greeting">Hello</string>
+    <string name="generic_error">Something went wrong</string>
+    <string name="week_password_error">Enter a strong password</string>
+    <string name="password_reset_link_send_message">Password reset link send to your email</string>
+
+    <string name="profile_icon_desc">Profile Icon</string>
+    <string name="profile_expand_icon_desc">Show more details about profile</string>
+    <string name="settings">Settings</string>
+    <string name="account_text">Account</string>
+    <string name="email_verified_desc">Email Verified Icon</string>
+    <string name="email_verified_text">Email Verified</string>
+    <string name="verify_email_text">Verify Email</string>
+    <string name="email_not_verified_icon_desc">Email Not verified</string>
+    <string name="current_password_text_field_label">Current Password</string>
+    <string name="new_password_text_field_label">New Password</string>
+    <string name="confirm_new_password_text_field_label">Confirm New Password</string>
+    <string name="change_password_label">Change Password</string>
+    <string name="done_text">Done</string>
+    <string name="email_verification_successful_message">Verification link send to your email</string>
+    <string name="password_reset_successful_message">Password reset successful</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="quote_of_the_day">Quote of the day</string>
+    <string name="favorites">Favorites</string>
+    <string name="reset_password">Reset Password</string>
+
+
+</resources>
